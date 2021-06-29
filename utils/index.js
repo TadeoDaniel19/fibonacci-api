@@ -1,4 +1,4 @@
-function fibonacciSerie(n) {
+const fibonacciSerie = (n) => {
   if(n < 2) {
     return n;
   }
